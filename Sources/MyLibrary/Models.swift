@@ -8,7 +8,7 @@
 import Foundation
 
 
-struct empleadoMeta4 {
+public struct empleadoMeta4 {
     var name : String
     var id : String
 }
